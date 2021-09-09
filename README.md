@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ScaleneNetwork
+- 👀 I’m interested in ... Convertible Store of Value NFTs & Empowering 3D Graphic Designers
+- 🌱 I’m currently learning ... What our users want to see in the Scalene Network
+- 💞️ I’m looking to collaborate on ... Partnerships with companies and organizations that can make Scalene Network even better!
+- 📫 How to reach me ... https://t.me/Scalenenetwork
+                          https://twitter.com/ScaleneNetwork
+                          www.scalene.app
