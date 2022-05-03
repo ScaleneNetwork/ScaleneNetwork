@@ -5,3 +5,11 @@
 - 📫 How to reach me ... https://t.me/Scalenenetwork  
                           https://twitter.com/ScaleneNetwork  
                           www.scalene.app
+
+**Development updates**
+
+Generative Art API ✔️
+Generative Metadata API ✔️
+Generative Image Rendering ✔️
+Web3 Backend ✔️
+Web3 Frontend (in-progress)
